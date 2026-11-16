@@ -1,0 +1,6 @@
+{
+  "name": "MacroVision UI",
+  "description": "Sistem analisis antarmuka aplikasi dan game berbasis AI untuk deteksi elemen UI, koordinat pusat layar presisi, dan otomasi makro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
